@@ -23,6 +23,7 @@ header {
     background-color: var(--black);
     padding: 2rem;
     border-bottom: 0.5rem solid var(--pink);
+    margin-bottom: 1rem;
 }
 
 header * {
