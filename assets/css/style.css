@@ -29,11 +29,12 @@ h1 {
 nav ul {
     display: flex;
     justify-content: space-between;
-    min-width: 300px;
+    min-width: 450px;
 }
 
 nav a {
     color: var(--purple);
     font-weight: bold;
     text-decoration: none;
+    font-size: 150%;
 }
