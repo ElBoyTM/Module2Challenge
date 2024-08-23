@@ -2,6 +2,7 @@
     --darkIndigo: rgb(20, 0, 91);
     --white: aliceblue;
     --purple: blueviolet;
+    --black: black;
 }
 
 * {
@@ -18,11 +19,11 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: baseline;
-    background-color: black;
+    background-color: var(--black);
 }
 
 header * {
-    background-color: black;
+    background-color: var(--black);
 }
 
 h1 {
