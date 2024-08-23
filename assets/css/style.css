@@ -51,3 +51,9 @@ nav a {
 nav a:hover {
     color: var(--pink);
 }
+
+h2 {
+    font-size: 250%;
+    color: var(--pink);
+    text-decoration: underline;
+}
