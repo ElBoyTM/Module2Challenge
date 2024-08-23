@@ -13,3 +13,9 @@ h1 {
     font-size: 400%;
     font-variant: small-caps;
 }
+
+nav ul {
+    display: flex;
+    justify-content: space-between;
+    min-width: 300px;
+}
