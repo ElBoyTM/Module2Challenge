@@ -56,4 +56,5 @@ h2 {
     font-size: 250%;
     color: var(--pink);
     text-decoration: underline;
+    margin-bottom: 0.5rem;
 }
