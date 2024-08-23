@@ -31,3 +31,9 @@ nav ul {
     justify-content: space-between;
     min-width: 300px;
 }
+
+nav a {
+    color: var(--purple);
+    font-weight: bold;
+    text-decoration: none;
+}
