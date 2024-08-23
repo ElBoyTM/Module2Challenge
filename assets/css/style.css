@@ -21,6 +21,10 @@ header {
     background-color: black;
 }
 
+header * {
+    background-color: black;
+}
+
 h1 {
     font-size: 400%;
     font-variant: small-caps;
@@ -28,8 +32,8 @@ h1 {
 }
 
 nav ul {
-    /* display: flex;
-    justify-content: space-between; */
+    display: flex;
+    justify-content: space-between;
     min-width: 450px;
 }
 
