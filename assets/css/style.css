@@ -14,7 +14,7 @@ body {
     flex-direction: column;
 }
 
-header * {
+header {
     display: flex;
     justify-content: space-between;
     align-items: baseline;
