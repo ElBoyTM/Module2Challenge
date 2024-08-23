@@ -1,10 +1,11 @@
 :root {
     --darkIndigo: rgb(20, 0, 91);
+    --white: aliceblue;
 }
 
 * {
     background-color: var(--darkIndigo);
-    color:aliceblue;
+    color: var(--white);
 }
 
 body {
