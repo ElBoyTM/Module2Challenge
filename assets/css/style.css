@@ -22,6 +22,7 @@ header {
     align-items: baseline;
     background-color: var(--black);
     padding: 2rem;
+    border-bottom: 0.5rem solid var(--pink);
 }
 
 header * {
