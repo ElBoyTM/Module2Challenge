@@ -1,5 +1,9 @@
+:root {
+    --darkIndigo: rgb(20, 0, 91);
+}
+
 * {
-    background: rgb(20, 0, 91);
+    background-color: var(--darkIndigo);
 }
 
 body {
