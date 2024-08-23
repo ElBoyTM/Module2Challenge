@@ -20,6 +20,7 @@ header {
     justify-content: space-between;
     align-items: baseline;
     background-color: var(--black);
+    padding: 2rem;
 }
 
 header * {
