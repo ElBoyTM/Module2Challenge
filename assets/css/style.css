@@ -3,6 +3,7 @@
     --white: aliceblue;
     --purple: blueviolet;
     --black: black;
+    --pink: magenta;
 }
 
 * {
@@ -47,5 +48,5 @@ nav a {
 }
 
 nav a:hover {
-    color:magenta;
+    color: var(--pink);
 }
