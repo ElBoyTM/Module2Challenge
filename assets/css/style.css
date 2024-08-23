@@ -1,6 +1,7 @@
 :root {
     --darkIndigo: rgb(20, 0, 91);
     --white: aliceblue;
+    --purple: blueviolet;
 }
 
 * {
@@ -22,6 +23,7 @@ header {
 h1 {
     font-size: 400%;
     font-variant: small-caps;
+    color: var(--purple);
 }
 
 nav ul {
