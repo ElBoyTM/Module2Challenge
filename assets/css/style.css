@@ -74,9 +74,11 @@ section p {
 
 .work img{
     width: 100%;
+    bottom: baseline;
 }
 
 .work h3 {
     position: absolute;
     font-size: 300%;
+    bottom: baseline;
 }
