@@ -76,7 +76,7 @@ section p {
     width: 100%;
 }
 
-.work h3 {
+figcaption {
     position: absolute;
     font-size: 300%;
     bottom: 1em;
