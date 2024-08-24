@@ -72,5 +72,5 @@ section p {
 }
 
 section a img{
-    min-width: 85rem;
+    width: 100%;
 }
