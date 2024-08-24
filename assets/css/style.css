@@ -75,3 +75,8 @@ section p {
 .work img{
     width: 100%;
 }
+
+.work h3 {
+    position: absolute;
+    font-size: 300%;
+}
