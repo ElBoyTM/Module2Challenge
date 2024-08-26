@@ -221,8 +221,8 @@
   
   /* portfolio project images */
   /* TODO: Add portfolio project images here using background images*/
-  .run-buddy {
-    
+  .cancer-cure {
+    background-image: url(cancer.png);
   }
   
   .led-wall {
