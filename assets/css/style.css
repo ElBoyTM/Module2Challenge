@@ -278,3 +278,6 @@
   }
   
   /* TODO: add media query for a max-width of 768px */
+  @media screen and (max-width: 768px) {
+    
+  }
