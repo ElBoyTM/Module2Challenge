@@ -279,5 +279,7 @@
   
   /* TODO: add media query for a max-width of 768px */
   @media screen and (max-width: 768px) {
-    
+    .flex-item:first-child {
+      min-height: 150px;
+    }
   }
