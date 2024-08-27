@@ -222,7 +222,7 @@
   /* portfolio project images */
   /* TODO: Add portfolio project images here using background images*/
   .run-buddy {
-    background-image: url("./assets/images/cancer.png");
+    background-image: url("../images/cancer.png");
   }
   
   .led-wall {
